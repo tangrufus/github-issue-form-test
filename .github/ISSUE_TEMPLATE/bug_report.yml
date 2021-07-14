@@ -1,4 +1,4 @@
-name: ":bug: Bug Report"
+name: "Bug Report"
 description: Report a problem with Trellis. Please provide enough information that we can reproduce the problem.
 title: "[Bug]: "
 labels: [bug]
@@ -8,7 +8,7 @@ body:
     attributes:
       value: |
         This form is for reporting Trellis technical issues.
-        If want to ask a question ir looking for support, [Roots Discourse](https://discourse.roots.io/) is the best place for getting support.
+        If want to ask a question is looking for support, [Roots Discourse](https://discourse.roots.io/) is the best place for getting support.
 
   - type: checkboxes
     id: terms
@@ -29,12 +29,12 @@ body:
     id: description
     attributes:
       label: Description
-      description: |
-        What's wrong?
-        What have you tried?
-        What insights have you gained?
-        Possible solutions?
-        Temporary workaround?
+      value: |
+        #### What's wrong?
+        #### What have you tried?
+        #### What insights have you gained?
+        #### Possible solutions?
+        #### Temporary workaround?
     validations:
       required: true
 
