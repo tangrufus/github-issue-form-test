@@ -60,7 +60,7 @@ body:
     id: expected-behavior
     attributes:
       label: Expected Behavior
-      placeholder: What you expect to happen
+      placeholder: What you expect to happen?
     validations:
       required: true
 
@@ -68,7 +68,7 @@ body:
     id: actual-behavior
     attributes:
       label: Actual Behavior
-      placeholder: What actually happens
+      placeholder: What actually happens?
     validations:
       required: true
 
