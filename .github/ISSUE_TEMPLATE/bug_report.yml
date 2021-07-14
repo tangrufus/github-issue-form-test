@@ -31,9 +31,13 @@ body:
       label: Description
       value: |
         #### What's wrong?
+
         #### What have you tried?
+
         #### What insights have you gained?
+
         #### Possible solutions?
+
         #### Temporary workaround?
     validations:
       required: true
