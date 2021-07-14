@@ -1,5 +1,5 @@
 ---
-name: ":bug: Bug report"
+name: Bug Report
 about: Report a problem with Trellis.
 description: Report a problem with Trellis. Please provide enough information that we can reproduce the problem.
 title: "[Bug]: "
