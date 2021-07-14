@@ -1,8 +1,9 @@
 ---
 name: ":bug: Bug report"
-description: "Report a problem with Trellis. Please provide enough information that we can reproduce the problem."
+about: Report a problem with Trellis.
+description: Report a problem with Trellis. Please provide enough information that we can reproduce the problem.
 title: "[Bug]: "
-labels: ["bug"]
+labels: [bug]
 ---
 
 body:
