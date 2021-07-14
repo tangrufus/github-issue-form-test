@@ -1,7 +1,9 @@
+---
 name: ":bug: Bug report"
 description: "Report a problem with Trellis. Please provide enough information that we can reproduce the problem."
 title: "[Bug]: "
 labels: ["bug"]
+---
 
 body:
   - type: markdown
